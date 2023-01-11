@@ -1,0 +1,1 @@
+# spark-kinesis-consumer
