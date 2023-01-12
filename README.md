@@ -21,7 +21,7 @@ In other side there is data store in AWS S3 (store.csv, country.csv and customer
 Then the spark consumer application is launched on top AWS EMR, this aplication consumes real time data from AWS Kinesis and static data from AWS S3/AWS Glue Catalog, it joins data from both sources and store it in AWS S3.
 
 
-![alt text](images/diagram.jpg)
+![alt text](images/diagram.png)
 
 
 - Streaming Data from AWS Kinesis: Transactions.
